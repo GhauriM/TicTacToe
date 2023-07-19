@@ -1,2 +1,2 @@
 # TicTacToe
-JAVA Project Demonstrating AspectJ
+Project Demonstrating AspectJ
